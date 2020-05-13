@@ -1,0 +1,12 @@
+{
+    "name": "kacper/php-cs-fixer",
+    "authors": [
+        {
+            "name": "kacper",
+            "email": "kacpi102@wp.pl"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.16"
+    }
+}
